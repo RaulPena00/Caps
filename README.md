@@ -1,5 +1,5 @@
 # Caps
-Este projeto da empresa Caps pretende iniciar um identificador de formas geométricas para uso de ensino escolar, o projeto será feito utilizando a linguagem python.
+Este projeto da empresa Caps pretende iniciar um identificador de formas geométricas para uso de ensino escolar, o projeto será feito utilizando a linguagem python. Pensamos neste projeto com o intuíto de auxiliar jovens alunos no aprendizado de geometria, cada aluno terá um cadastro com seu nome e série aonde haverão dados sobre as informações inseridas no sistema, para que os professores consigam validar em quais partes os alunos tem mais dificuldade.
 
 Intregantes e seus conhecimentos:
 
