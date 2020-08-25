@@ -9,4 +9,4 @@ Raul Pena Pereira -
 - Linguas: Português, Espanhol, Inglês e Alemão
 - Cursando ensino superior na UPM
 
-Resumo: Já trabalho na área a um ano, Tenho experiência com programação orientada a objetos e Banco de dados, já trabalhei com traduções também e pretendo aumentar meu nível de proficiencia através de pequenos projetos.
+Resumo: Já trabalho na área a um ano, Tenho experiência com programação orientada a objetos e Banco de dados, já trabalhei com traduções e pretendo aumentar meu nível de proficiencia através de pequenos projetos.
