@@ -10,3 +10,11 @@ Raul Pena Pereira -
 - Cursando ensino superior na UPM
 
 Resumo: Já trabalho na área a um ano, Tenho experiência com programação orientada a objetos e Banco de dados, já trabalhei com traduções e pretendo aumentar meu nível de proficiencia através de pequenos projetos.
+
+Paulo Victor de Jesus Marques -
+- Experiência: Captação de clientes, vendas de produtos para fabricação de
+distribuição de Brindes e Presentes, atendimento ao alunos da faculdade, fazendo serviços como xerox,
+encadernação de matérias, vendas de produtos de papelaria.
+
+Resumo: Estou a procura de novos desafios, buscando uma efetivação no mercado, visando como
+oportunidade e crescimento profissional.
